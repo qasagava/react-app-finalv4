@@ -13,7 +13,7 @@ function NextSection() {
 
         <div className="main__video2">
         <video autoPlay loop playsInline className="video-bg" controls>
-    <source src="https://77f0e343-ce7e-4e93-9c01-8a6631a1e600.selstorage.ru/reactapp%2Fweeb%20ai%201.mp4" type="video/mp4" />
+    <source src="/mainvideoweb.mp4" type="video/mp4" />
 </video>
         </div>
     </div> 
