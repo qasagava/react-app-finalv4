@@ -12,9 +12,10 @@ function NextSection() {
         <h2 className="showcase-title">Showcase</h2>
 
         <div className="main__video2">
-        <video autoPlay loop playsInline className="video-bg" controls>
+        <video autoPlay loop playsInline muted controls className="video-bg">
     <source src="/mainvideoweb.mp4" type="video/mp4" />
 </video>
+
         </div>
     </div> 
 
